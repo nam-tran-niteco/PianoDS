@@ -1,0 +1,1167 @@
+fileFormatVersion: 2
+guid: 0d7b5547788cb4d4c80b1839612b6941
+timeCreated: 1448168494
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ContraSheet3_0
+    21300002: ContraSheet3_1
+    21300004: ContraSheet3_2
+    21300006: ContraSheet3_3
+    21300008: ContraSheet3_4
+    21300010: ContraSheet3_5
+    21300012: ContraSheet3_6
+    21300014: ContraSheet3_7
+    21300016: ContraSheet3_8
+    21300018: ContraSheet3_9
+    21300020: ContraSheet3_10
+    21300022: ContraSheet3_11
+    21300024: ContraSheet3_12
+    21300026: ContraSheet3_13
+    21300028: ContraSheet3_14
+    21300030: ContraSheet3_15
+    21300032: ContraSheet3_16
+    21300034: ContraSheet3_17
+    21300036: ContraSheet3_18
+    21300038: ContraSheet3_19
+    21300040: ContraSheet3_20
+    21300042: ContraSheet3_21
+    21300044: ContraSheet3_22
+    21300046: ContraSheet3_23
+    21300048: ContraSheet3_24
+    21300050: ContraSheet3_25
+    21300052: ContraSheet3_26
+    21300054: ContraSheet3_27
+    21300056: ContraSheet3_40
+    21300058: ContraSheet3_28
+    21300060: ContraSheet3_29
+    21300062: ContraSheet3_30
+    21300064: ContraSheet3_31
+    21300066: ContraSheet3_32
+    21300068: ContraSheet3_33
+    21300070: ContraSheet3_34
+    21300072: ContraSheet3_35
+    21300074: ContraSheet3_36
+    21300076: ContraSheet3_37
+    21300078: ContraSheet3_38
+    21300080: ContraSheet3_39
+    21300082: ContraSheet3_41
+    21300084: ContraSheet3_42
+    21300086: ContraSheet3_43
+    21300088: ContraSheet3_44
+    21300090: ContraSheet3_45
+    21300092: ContraSheet3_46
+    21300094: ContraSheet3_47
+    21300096: ContraSheet3_48
+    21300098: ContraSheet3_49
+    21300100: ContraSheet3_50
+    21300102: ContraSheet3_51
+    21300104: ContraSheet3_52
+    21300106: ContraSheet3_53
+    21300108: ContraSheet3_54
+    21300110: ContraSheet3_55
+    21300112: ContraSheet3_56
+    21300114: ContraSheet3_57
+    21300116: ContraSheet3_58
+    21300118: ContraSheet3_59
+    21300120: ContraSheet3_60
+    21300122: ContraSheet3_61
+    21300124: ContraSheet3_62
+    21300126: ContraSheet3_63
+    21300128: ContraSheet3_64
+    21300130: ContraSheet3_65
+    21300132: ContraSheet3_66
+    21300134: ContraSheet3_67
+    21300136: ContraSheet3_68
+    21300138: ContraSheet3_69
+    21300140: ContraSheet3_70
+    21300142: ContraSheet3_71
+    21300144: ContraSheet3_72
+    21300146: ContraSheet3_73
+    21300148: ContraSheet3_74
+    21300150: ContraSheet3_75
+    21300152: ContraSheet3_76
+    21300154: ContraSheet3_77
+    21300156: ContraSheet3_78
+    21300158: ContraSheet3_79
+    21300160: ContraSheet3_80
+    21300162: ContraSheet3_81
+    21300164: ContraSheet3_82
+    21300166: ContraSheet3_83
+    21300168: ContraSheet3_84
+    21300170: ContraSheet3_85
+    21300172: ContraSheet3_86
+    21300174: ContraSheet3_87
+    21300176: ContraSheet3_88
+    21300178: ContraSheet3_89
+    21300180: ContraSheet3_90
+    21300182: ContraSheet3_91
+    21300184: ContraSheet3_92
+    21300186: ContraSheet3_93
+    21300188: ContraSheet3_94
+    21300190: ContraSheet3_95
+    21300192: ContraSheet3_96
+    21300194: ContraSheet3_97
+    21300196: ContraSheet3_98
+    21300198: ContraSheet3_99
+    21300200: ContraSheet3_100
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ContraSheet3_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 479
+        width: 18
+        height: 39
+      alignment: 9
+      pivot: {x: .642997503, y: .565998554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 480
+        width: 18
+        height: 38
+      alignment: 9
+      pivot: {x: .690664947, y: .567736149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 479
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: .678748131, y: .660872459}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 479
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: .785996735, y: .721415877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 479
+        width: 24
+        height: 31
+      alignment: 9
+      pivot: {x: .642997742, y: .693739355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_5
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 478
+        width: 24
+        height: 31
+      alignment: 9
+      pivot: {x: .321252823, y: .693739355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_6
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 479
+        width: 24
+        height: 31
+      alignment: 9
+      pivot: {x: .39275232, y: .693739355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_7
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 479
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: .321251541, y: .714496613}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_8
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 479
+        width: 18
+        height: 38
+      alignment: 9
+      pivot: {x: .35700056, y: .612893343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_9
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 478
+        width: 18
+        height: 39
+      alignment: 9
+      pivot: {x: .404668182, y: .675998032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_10
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 446
+        width: 18
+        height: 28
+      alignment: 9
+      pivot: {x: .499998927, y: .0403638557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 444
+        width: 18
+        height: 33
+      alignment: 9
+      pivot: {x: .404669434, y: .136005744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_12
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 445
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: .607248306, y: -.00943088531}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_13
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 444
+        width: 17
+        height: 31
+      alignment: 9
+      pivot: {x: .5, y: .112520278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_14
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 444
+        width: 18
+        height: 33
+      alignment: 9
+      pivot: {x: .5, y: .110005699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_15
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 445
+        width: 17
+        height: 32
+      alignment: 9
+      pivot: {x: .651410282, y: .0173816681}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_16
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 444
+        width: 17
+        height: 32
+      alignment: 9
+      pivot: {x: .34859243, y: .0710067749}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_17
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 443
+        width: 18
+        height: 33
+      alignment: 9
+      pivot: {x: .452334076, y: .13600482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_18
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 443
+        width: 17
+        height: 31
+      alignment: 9
+      pivot: {x: .449531108, y: .140198737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_19
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 444
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: .446375847, y: .124629974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_20
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 443
+        width: 18
+        height: 33
+      alignment: 9
+      pivot: {x: .595332682, y: .110005699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_21
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 443
+        width: 18
+        height: 28
+      alignment: 9
+      pivot: {x: .547666788, y: .101647511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 409
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_23
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 409
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_24
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 409
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_25
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 409
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_26
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 409
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_27
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 409
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_28
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 375
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_29
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 375
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_30
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 375
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_31
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 375
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_32
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 348
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_33
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 348
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_34
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 348
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_35
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 348
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_36
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 348
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_37
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 348
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_38
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 348
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_39
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 348
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_40
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 348
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_41
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 348
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_42
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 348
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_43
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 348
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_44
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 322
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_45
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 322
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_46
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 322
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_47
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 322
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_48
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 322
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_49
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 322
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_50
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 322
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_51
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 322
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_52
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 322
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_53
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 322
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_54
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 322
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_55
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 322
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_56
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 272
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_57
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 272
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_58
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 272
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_59
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 272
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_60
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 272
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_61
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 272
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_62
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 272
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_63
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 272
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_64
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 272
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_65
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 272
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_66
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 272
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_67
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 241
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_68
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 241
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_69
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 241
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_70
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 241
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_71
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 241
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_72
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 241
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_73
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 241
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_74
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 241
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_75
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 241
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_76
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 241
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_77
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 207
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_78
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 207
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_79
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 207
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_80
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 207
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_81
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 173
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_82
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 173
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_83
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 173
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_84
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 173
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_85
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 173
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_86
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 173
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_87
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 173
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_88
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 173
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_89
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 139
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_90
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 139
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_91
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 139
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_92
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 139
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_93
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 139
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_94
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 139
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_95
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 119
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_96
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 119
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_97
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 119
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_98
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 19
+        width: 105
+        height: 96
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_99
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 3
+        width: 105
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet3_100
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 75
+        width: 80
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

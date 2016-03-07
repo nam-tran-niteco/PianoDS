@@ -1,0 +1,639 @@
+fileFormatVersion: 2
+guid: bca3ffe6666a28545979b8543b18270d
+timeCreated: 1448121660
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ContraSheet8_11
+    21300002: ContraSheet8_12
+    21300004: ContraSheet8_13
+    21300006: ContraSheet8_14
+    21300008: ContraSheet8_15
+    21300010: ContraSheet8_16
+    21300012: ContraSheet8_17
+    21300014: ContraSheet8_39
+    21300016: ContraSheet8_73
+    21300018: ContraSheet8_74
+    21300020: ContraSheet8_75
+    21300022: ContraSheet8_76
+    21300024: ContraSheet8_77
+    21300026: ContraSheet8_78
+    21300028: ContraSheet8_81
+    21300030: ContraSheet8_82
+    21300032: ContraSheet8_83
+    21300034: ContraSheet8_84
+    21300036: ContraSheet8_87
+    21300038: ContraSheet8_88
+    21300040: ContraSheet8_89
+    21300042: ContraSheet8_90
+    21300044: ContraSheet8_91
+    21300046: ContraSheet8_92
+    21300048: ContraSheet8_95
+    21300050: ContraSheet8_96
+    21300052: ContraSheet8_97
+    21300054: ContraSheet8_100
+    21300056: ContraSheet8_101
+    21300058: ContraSheet8_104
+    21300060: ContraSheet8_105
+    21300062: ContraSheet8_0
+    21300064: ContraSheet8_1
+    21300066: ContraSheet8_2
+    21300068: ContraSheet8_3
+    21300070: ContraSheet8_4
+    21300072: ContraSheet8_5
+    21300074: ContraSheet8_6
+    21300076: ContraSheet8_7
+    21300078: ContraSheet8_8
+    21300080: ContraSheet8_9
+    21300082: ContraSheet8_10
+    21300084: ContraSheet8_18
+    21300086: ContraSheet8_19
+    21300088: ContraSheet8_20
+    21300090: ContraSheet8_21
+    21300092: ContraSheet8_22
+    21300094: ContraSheet8_23
+    21300096: ContraSheet8_24
+    21300098: ContraSheet8_25
+    21300100: ContraSheet8_26
+    21300102: ContraSheet8_27
+    21300104: ContraSheet8_28
+    21300106: ContraSheet8_29
+    21300108: ContraSheet8_30
+    21300110: ContraSheet8_31
+    21300112: ContraSheet8_32
+    21300114: ContraSheet8_33
+    21300116: ContraSheet8_34
+    21300118: ContraSheet8_35
+    21300120: ContraSheet8_36
+    21300122: ContraSheet8_37
+    21300124: ContraSheet8_38
+    21300126: ContraSheet8_40
+    21300128: ContraSheet8_41
+    21300130: ContraSheet8_42
+    21300132: ContraSheet8_43
+    21300134: ContraSheet8_44
+    21300136: ContraSheet8_45
+    21300138: ContraSheet8_46
+    21300140: ContraSheet8_47
+    21300142: ContraSheet8_48
+    21300144: ContraSheet8_49
+    21300146: ContraSheet8_50
+    21300148: ContraSheet8_51
+    21300150: ContraSheet8_52
+    21300152: ContraSheet8_53
+    21300154: ContraSheet8_54
+    21300156: ContraSheet8_55
+    21300158: ContraSheet8_56
+    21300160: ContraSheet8_57
+    21300162: ContraSheet8_58
+    21300164: ContraSheet8_59
+    21300166: ContraSheet8_60
+    21300168: ContraSheet8_61
+    21300170: ContraSheet8_62
+    21300172: ContraSheet8_63
+    21300174: ContraSheet8_64
+    21300176: ContraSheet8_65
+    21300178: ContraSheet8_66
+    21300180: ContraSheet8_67
+    21300182: ContraSheet8_68
+    21300184: ContraSheet8_69
+    21300186: ContraSheet8_70
+    21300188: ContraSheet8_71
+    21300190: ContraSheet8_72
+    21300192: ContraSheet8_79
+    21300194: ContraSheet8_80
+    21300196: ContraSheet8_85
+    21300198: ContraSheet8_86
+    21300200: ContraSheet8_93
+    21300202: ContraSheet8_94
+    21300204: ContraSheet8_98
+    21300206: ContraSheet8_99
+    21300208: ContraSheet8_102
+    21300210: ContraSheet8_103
+    21300212: ContraSheet8_106
+    21300214: ContraSheet8_107
+    21300216: ContraSheet8_108
+    21300218: ContraSheet8_109
+    21300220: ContraSheet8_110
+    21300222: ContraSheet8_111
+    21300224: ContraSheet8_112
+    21300226: ContraSheet8_113
+    21300228: ContraSheet8_114
+    21300230: ContraSheet8_115
+    21300232: ContraSheet8_116
+    21300234: ContraSheet8_117
+    21300236: ContraSheet8_118
+    21300238: ContraSheet8_119
+    21300240: ContraSheet8_120
+    21300242: ContraSheet8_121
+    21300244: ContraSheet8_122
+    21300246: ContraSheet8_123
+    21300248: ContraSheet8_124
+    21300250: ContraSheet8_125
+    21300252: ContraSheet8_126
+    21300254: ContraSheet8_127
+    21300256: ContraSheet8_128
+    21300258: ContraSheet8_129
+    21300260: ContraSheet8_130
+    21300262: ContraSheet8_131
+    21300264: ContraSheet8_132
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ContraSheet8_11
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 591
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_12
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 592
+        width: 24
+        height: 15
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_13
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 591
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_14
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 591
+        width: 24
+        height: 15
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_15
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 591
+        width: 24
+        height: 15
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_16
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 591
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_17
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 591
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_18
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 591
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_19
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 591
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_20
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 591
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_38
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 468
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_39
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 468
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_73
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 258
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_74
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 258
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_75
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 258
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_76
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 258
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_77
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 258
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_78
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 257
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_81
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 258
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_82
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 246
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_83
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 246
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_84
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 246
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_87
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 208
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: .5, y: -.00689595519}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_88
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 23
+        height: 27
+      alignment: 9
+      pivot: {x: .499999344, y: .00505178934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_89
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 208
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_90
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 208
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_91
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 246
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_92
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_95
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 208
+        width: 15
+        height: 18
+      alignment: 9
+      pivot: {x: .530721009, y: .0391862653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_100
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 195
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_101
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 195
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_104
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 184
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_105
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 184
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_112
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 140
+        width: 104
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_113
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 149
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_114
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 149
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_115
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 136
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_116
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 123
+        width: 112
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_117
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 133
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_118
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 126
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_119
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 133
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_120
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 119
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_132
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 102
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_0
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 245
+        width: 3
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ContraSheet8_1
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 246
+        width: 3
+        height: 3
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
